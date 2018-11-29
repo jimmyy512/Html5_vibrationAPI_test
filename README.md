@@ -1,6 +1,6 @@
-# vue-demo
+# html5 手機 陀螺儀和震動api測試
 
-> A Vue.js project
+>主要代碼在src/components/HelloWorld.vue
 
 ## Build Setup
 
